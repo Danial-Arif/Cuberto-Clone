@@ -31,12 +31,4 @@
 
   ---
 
-  ## 🛠️ How to Run Locally
 
-  If you want to try it out or clone it yourself, run the following:
-
-  ```bash
-  git clone https://github.com/Danial-Arif/Cuberto-Clone.git
-  cd Cuberto-Clone
-  npm install
-  npm run dev
