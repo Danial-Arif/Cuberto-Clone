@@ -17,7 +17,7 @@
   ---
 
   ## 🔗 Live Preview  
-  👉 [Cuberto Clone on Vercel](https://cuberto-clone-by-danial.vercel.app/)  
+  👉 [See it live here (I swear it works 😂🚀) ](https://cuberto-clone-by-danial.vercel.app/)  
 
   ---
 
